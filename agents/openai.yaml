@@ -1,0 +1,4 @@
+interface:
+  display_name: "高管汇报材料润色"
+  short_description: "面向CEO及高管的中文汇报材料结构优化、语言精炼与价值提炼"
+  default_prompt: "使用 $refining-executive-reports 将这份中文汇报材料改写为简洁、严谨并突出成果与实际价值的高管版本。"
